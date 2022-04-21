@@ -1,0 +1,60 @@
+.boxnm {
+    /* position: absolute; */
+    /* top: 50%; */
+    display: flex;
+    flex-direction: row;
+
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    /* width: 25%;
+    height: 50%; */
+    /* border: 2px solid rgba(37, 150, 190, 0.6); */
+    /* background: #ffff; */
+
+
+}
+
+
+
+.htext {
+    font-size: x-large;
+    margin-left: 35%;
+    font-weight: bold;
+
+
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+.logincontent {
+    margin-top: 10%;
+    /* padding-right: 20px; */
+    border: 1px solid grey;
+    
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: 10px;
+
+
+
+}
+.mainbox{
+    height: 68%;
+    border:  2px solid green;
+overflow-y: scroll;
+   
+}
+.boxnmc {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+    width: 40%;
+    height: 80%;
+    background: #ffff;
+
+
+}
