@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/voiceecom/static/css/main.27330ea7.css",
+    "main.js": "/voiceecom/static/js/main.fa5e187e.js",
+    "static/js/787.6d9b352f.chunk.js": "/voiceecom/static/js/787.6d9b352f.chunk.js",
+    "index.html": "/voiceecom/index.html",
+    "main.27330ea7.css.map": "/voiceecom/static/css/main.27330ea7.css.map",
+    "main.fa5e187e.js.map": "/voiceecom/static/js/main.fa5e187e.js.map",
+    "787.6d9b352f.chunk.js.map": "/voiceecom/static/js/787.6d9b352f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27330ea7.css",
+    "static/js/main.fa5e187e.js"
+  ]
+}
