@@ -1,8 +1,8 @@
 {
   "name": "sam-application",
   "version": "0.1.0",
-  "private": true,
-  "homepage": " https://hemanthkrishna27.github.io",
+  "private": false,
+  "homepage": "http://hemanthkrishna27.github.io/VoiceControlledECOM/",
   "dependencies": {
     "@alan-ai/alan-sdk-web": "^1.8.31",
     "@emotion/react": "^11.8.2",
